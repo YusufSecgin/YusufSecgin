@@ -9,24 +9,10 @@ I enjoy building practical software projects using Python, Flask, and modern API
 ## Tech Stack
 
 - Python
-- Java
 - C++
 - Flask
 - HTML / CSS / JavaScript
 - MySQL / SQLite (basic)
-
----
-
-## Projects
-
-### AI Powered Music Recommendation App
-A Python application that integrates with the Spotify API to analyze user listening habits and generate AI-based music recommendations.
-
-### City Population and Mapping System
-A desktop application built with Python that displays population data and geographical information of cities using map visualization.
-
-### Flask AI Chatbot
-An AI chatbot web application developed with Flask and integrated with an AI API to generate responses to user inputs.
 
 ---
 
